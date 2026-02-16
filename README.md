@@ -111,3 +111,6 @@
 5.Print the value of i using print().  
 6.Increment i using i += 1.  
 7.Stop.  
+# Conclusion:
+Thus, the use of the while loop along with conditional and arithmetic operators in Python was successfully studied to generate the required output.
+
